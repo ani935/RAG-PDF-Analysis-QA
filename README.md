@@ -306,15 +306,15 @@ The application displays the generated answer along with the relevant source pag
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](home.png)
 
 ### PDF Upload
 
-![PDF Upload](screenshots/pdf-upload.png)
+![PDF Upload](pdf-upload.png)
 
 ### Question Answering
 
-![Answer](screenshots/pdf-upload.png)
+![Answer](pdf-upload.png)
 
 ---
 
