@@ -310,11 +310,11 @@ The application displays the generated answer along with the relevant source pag
 
 ### PDF Upload
 
-![PDF Upload](pdf-upload.png)
+![PDF Upload](pdf_upload.png)
 
 ### Question Answering
 
-![Answer](pdf-upload.png)
+![Answer](pdf_upload.png)
 
 ---
 
