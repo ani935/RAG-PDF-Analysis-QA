@@ -199,7 +199,7 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 Move into the project directory:
 
 ```bash
-cd PDF-Risk-Analysis-RAG
+cd RAG-PDF-Analysis-QA
 ```
 
 ---
